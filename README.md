@@ -25,9 +25,13 @@ I've spent 15+ years shipping web products end to end, from data model to UI to 
 | **PingStay** | Multi-tenant QR in-room hotel concierge: HY/RU/EN ordering, staff console, AI concierge | Turborepo · Next.js · Supabase · Gemini | Cofounder · in active development |
 | **Afterbounce** | Pixel-art arcade roguelike that reimagines brick-breaker with ball-shaped heroes | Unity | Solo · launching March 17, 2027 |
 
-<!-- IMAGE PLACEHOLDER: WIIT screenshot -->
-<!-- IMAGE PLACEHOLDER: PingStay screenshot -->
-<!-- IMAGE PLACEHOLDER: Afterbounce GIF -->
+<table>
+  <tr>
+    <td width="32%"><a href="https://askwiit.com"><img src="https://quantumdesign.dev/products/wiit-debate-1.png" alt="WIIT debate screen" width="100%" /></a></td>
+    <td width="32%"><img src="https://quantumdesign.dev/products/pingstay-dashboard.png" alt="PingStay staff dashboard" width="100%" /></td>
+    <td width="32%"><img src="https://quantumdesign.dev/products/afterbounce-gameplay.png" alt="Afterbounce gameplay" width="100%" /></td>
+  </tr>
+</table>
 
 <sub>These repos are private. Demos are available on request.</sub>
 
