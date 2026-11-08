@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi, I'm Gabriel Manukyan
 
-<!--
-**gabrielmanukyan/gabrielmanukyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Engineer · TypeScript & AI products**<br>
+Yerevan, Armenia · open to remote
 
-Here are some ideas to get you started:
+I've spent 15+ years shipping web products end to end, from data model to UI to deployment. I'm the founder of [Quantum Design](https://quantumdesign.dev), the engineering partner to emarkable B.V., and I build my own products on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+
+### What I'm building
+
+| Product | What it is | Stack | Role · Status |
+|---|---|---|---|
+| **[WIIT](https://askwiit.com)** | Timed two-sided crowd debates with earned vote Power and AI debate bots | Next.js · Supabase · OpenAI | Solo founder · in active development |
+| **PingStay** | Multi-tenant QR in-room hotel concierge: HY/RU/EN ordering, staff console, AI concierge | Turborepo · Next.js · Supabase · Gemini | Cofounder · in active development |
+| **Afterbounce** | Pixel-art arcade roguelike that reimagines brick-breaker with ball-shaped heroes | Unity | Solo · launching March 17, 2027 |
+
+<!-- IMAGE PLACEHOLDER: WIIT screenshot -->
+<!-- IMAGE PLACEHOLDER: PingStay screenshot -->
+<!-- IMAGE PLACEHOLDER: Afterbounce GIF -->
+
+<sub>These repos are private. Demos are available on request.</sub>
+
+### Selected engineering work
+
+- Live freight pricing calculated in the cart at checkout time.
+- A bulk tiered-pricing sync with a dry-run audit of every change before it's applied.
+- A failing lead API rescued with a Cloudflare Worker relay.
+- A zero-downtime rebrand of a live storefront.
+
+### How I work
+
+- I ship small and often, with previews before production.
+- I'd rather have boring, typed, tested code than clever code.
+- I own the whole path from problem to deployed product.
+
+### Contact
+
+[quantumdesign.dev](https://quantumdesign.dev) · [LinkedIn](https://www.linkedin.com/in/gabriel-manukyan-223bb7a4) · [gabriel@quantumdesign.dev](mailto:gabriel@quantumdesign.dev)
